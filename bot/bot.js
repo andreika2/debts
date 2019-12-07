@@ -8,7 +8,7 @@ const mongo = require('../database/mongo')
 //Init bot 
 
 process.env["NTBA_FIX_319"] = 1
-const token = '1064689156:AAGB_v7wMSYx-UTtVrHo_lMDl1r7e0nMa1w';
+const token = '1w';
 const ipAdress = '209.90.63.108';
 const port = '80';
 module.exports.bot = new TelegramBot(token, {
